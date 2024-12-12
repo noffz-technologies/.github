@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 ## Functionality
-Describe the task further. If exists you can also copy the task description from the projects excel task overview.
+Describe the task further. If exists you can also copy the task description from the projects task overview.
 
 ### Components
 Split the task in functions and smaller tasks which can later be a child issue to this one.
@@ -16,4 +16,4 @@ Split the task in functions and smaller tasks which can later be a child issue t
 * ex. TestStand sequence reading the data from XY
 
 ### Further Documentation
-Add references to other documentation like the projects excel task overview.
+Add references to other documentation like the projects task overview.

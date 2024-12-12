@@ -27,4 +27,4 @@ Name which tasks/issues this idea could be a child from, dependant from or added
 
 ### Further Documentation
 
-Add references to other documentation like the projects excel task overview.
+Add references to other documentation like the projects task overview.

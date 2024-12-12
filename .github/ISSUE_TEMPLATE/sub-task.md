@@ -12,7 +12,7 @@ Name the associated main task.
 
 ## Functionality
 
-Describe the task further. If exists you can also copy the task description from the projects excel task overview.
+Describe the task further. If exists you can also copy the task description from the projects task overview.
 
 Also describe the use case of this feature within the main task.
 
@@ -25,4 +25,4 @@ You can use this category to split the tasks in the designated functions.
 
 ### Further Documentation
 
-Add references to other documentation like the projects excel task overview.
+Add references to other documentation like the projects task overview.
