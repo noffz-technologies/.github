@@ -14,7 +14,7 @@ Name the associated main task.
 
 Describe the task further. If exists you can also copy the task description from the projects excel task overview.
 
-Also describe the usecase of this feature within the main task.
+Also describe the use case of this feature within the main task.
 
 ### Components
 
